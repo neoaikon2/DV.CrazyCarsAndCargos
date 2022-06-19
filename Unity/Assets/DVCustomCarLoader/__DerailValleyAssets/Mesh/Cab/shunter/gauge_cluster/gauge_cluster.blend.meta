@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 5f8e94d354047e54f82b28a5eb28bc23
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: brake_aux_res needle04 pivot
+    100002: brake_pipe needle05 model
+    100004: brake_pipe needle05 pivot
+    100006: dash_light_base01 model
+    100008: dash_light_base04 model
+    100010: dash_light_base05 model
+    100012: dash_light_base10 model
+    100014: dash_light_base11 model
+    100016: dash_light_base13 model
+    100018: deck.001
+    100020: engine_temp_needle model
+    100022: engine_temp_needle pivot
+    100024: fuel needle01 model
+    100026: fuel needle01 pivot
+    100028: gauge_cluster
+    100030: //RootNode
+    100032: gauge_glass
+    100034: gauge_stickers model.001
+    100036: I brake_aux_res_lamp
+    100038: I brake_aux_res_meter
+    100040: I brake_pipe_lamp
+    100042: I brake_pipe_meter
+    100044: I engine_temp_lamp
+    100046: I engine_temp_meter
+    100048: I fuel_lamp
+    100050: I fuel_meter
+    100052: I gauges backlights
+    100054: I oil_lamp
+    100056: I oil_meter
+    100058: I sand_lamp
+    100060: I sand_meter
+    100062: I speedometer
+    100064: labels_mesh
+    100066: lamp emmision indicator
+    100068: lamp emmision indicator.014
+    100070: lamp emmision indicator.020
+    100072: lamp emmision indicator.021
+    100074: lamp emmision indicator.022
+    100076: lamp emmision indicator.024
+    100078: lamp emmision indicator.025
+    100080: lamp_root
+    100082: needle04
+    100084: oil needle02 model.001
+    100086: oil needle02 pivot.001
+    100088: sand needle03 model.001
+    100090: sand needle03 pivot.001
+    100092: speedometer_needle model.001
+    100094: speedometer_needle pivot.001
+    400000: brake_aux_res needle04 pivot
+    400002: brake_pipe needle05 model
+    400004: brake_pipe needle05 pivot
+    400006: dash_light_base01 model
+    400008: dash_light_base04 model
+    400010: dash_light_base05 model
+    400012: dash_light_base10 model
+    400014: dash_light_base11 model
+    400016: dash_light_base13 model
+    400018: deck.001
+    400020: engine_temp_needle model
+    400022: engine_temp_needle pivot
+    400024: fuel needle01 model
+    400026: fuel needle01 pivot
+    400028: //RootNode
+    400030: gauge_cluster
+    400032: gauge_glass
+    400034: gauge_stickers model.001
+    400036: I brake_aux_res_lamp
+    400038: I brake_aux_res_meter
+    400040: I brake_pipe_lamp
+    400042: I brake_pipe_meter
+    400044: I engine_temp_lamp
+    400046: I engine_temp_meter
+    400048: I fuel_lamp
+    400050: I fuel_meter
+    400052: I gauges backlights
+    400054: I oil_lamp
+    400056: I oil_meter
+    400058: I sand_lamp
+    400060: I sand_meter
+    400062: I speedometer
+    400064: labels_mesh
+    400066: lamp emmision indicator
+    400068: lamp emmision indicator.014
+    400070: lamp emmision indicator.020
+    400072: lamp emmision indicator.021
+    400074: lamp emmision indicator.022
+    400076: lamp emmision indicator.024
+    400078: lamp emmision indicator.025
+    400080: lamp_root
+    400082: needle04
+    400084: oil needle02 model.001
+    400086: oil needle02 pivot.001
+    400088: sand needle03 model.001
+    400090: sand needle03 pivot.001
+    400092: speedometer_needle model.001
+    400094: speedometer_needle pivot.001
+    2100000: _gadgets.002
+    2100002: _gauge_glass.002
+    2100004: _labels.002
+    2100006: _gauges.001
+    2100008: _gauges.002
+    2100010: _gauges.003
+    2100012: _gauges.004
+    2100014: _gauges.005
+    2100016: _deck.001
+    2100018: _gauges.020
+    2100020: _gauges.013
+    2100022: _gauges.014
+    2100024: _gauges.015
+    2100026: _gauges.016
+    2100028: _gauges.017
+    2300000: brake_pipe needle05 model
+    2300002: dash_light_base01 model
+    2300004: dash_light_base04 model
+    2300006: dash_light_base05 model
+    2300008: dash_light_base10 model
+    2300010: dash_light_base11 model
+    2300012: dash_light_base13 model
+    2300014: deck.001
+    2300016: engine_temp_needle model
+    2300018: fuel needle01 model
+    2300020: gauge_cluster
+    2300022: gauge_glass
+    2300024: gauge_stickers model.001
+    2300026: labels_mesh
+    2300028: needle04
+    2300030: oil needle02 model.001
+    2300032: sand needle03 model.001
+    2300034: speedometer_needle model.001
+    3300000: brake_pipe needle05 model
+    3300002: dash_light_base01 model
+    3300004: dash_light_base04 model
+    3300006: dash_light_base05 model
+    3300008: dash_light_base10 model
+    3300010: dash_light_base11 model
+    3300012: dash_light_base13 model
+    3300014: deck.001
+    3300016: engine_temp_needle model
+    3300018: fuel needle01 model
+    3300020: gauge_cluster
+    3300022: gauge_glass
+    3300024: gauge_stickers model.001
+    3300026: labels_mesh
+    3300028: needle04
+    3300030: oil needle02 model.001
+    3300032: sand needle03 model.001
+    3300034: speedometer_needle model.001
+    4300000: gauge_cluster
+    4300002: gauge_glass
+    4300004: labels_mesh
+    4300006: engine_temp_needle model
+    4300008: fuel needle01 model
+    4300010: oil needle02 model.001
+    4300012: sand needle03 model.001
+    4300014: needle04
+    4300016: brake_pipe needle05 model
+    4300018: speedometer_needle model.001
+    4300020: gauge_stickers model.001
+    4300022: deck.001
+    4300024: dash_light_base05 model
+    4300026: dash_light_base04 model
+    4300028: dash_light_base01 model
+    4300030: dash_light_base13 model
+    4300032: dash_light_base10 model
+    4300034: dash_light_base11 model
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

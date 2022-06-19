@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4112911611
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: walking_bogies_bundle
+      Dependencies: {}

@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4237588904
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hovercar_bundle
+      Dependencies: {}

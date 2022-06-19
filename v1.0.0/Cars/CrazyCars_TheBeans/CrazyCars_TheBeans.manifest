@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 204303977
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: the_beans_bundle
+      Dependencies: {}

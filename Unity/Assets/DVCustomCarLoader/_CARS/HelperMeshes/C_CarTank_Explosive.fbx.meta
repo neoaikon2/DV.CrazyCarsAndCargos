@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: d4d7ab872ff689c4795c188d0d46ee7b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: '[camera dampening]'
+    100002: '[car placard anchor1]'
+    100004: '[colliders]'
+    100006: '[collision]'
+    100008: '[items]'
+    100010: '[walkable]'
+    100012: //RootNode
+    100014: HazmatPlacard_Explosive03
+    100016: HazmatPlacard_Explosive03 1
+    100018: HazmatPlacard_Explosive03 2
+    100020: HazmatPlacard_Explosive03 3
+    100022: HazmatPlacard_Explosive04
+    100024: HazmatPlacard_Explosive04 1
+    100026: HazmatPlacard_Flammable03
+    100028: HazmatPlacard_Flammable03 1
+    100030: HazmatPlacard_Flammable03 2
+    100032: HazmatPlacard_Flammable03 3
+    100034: HazmatPlacard_Flammable04
+    100036: HazmatPlacard_Flammable04 1
+    100038: HazmatPlacardIcon_Explosive_02
+    100040: HazmatPlacardIcon_Explosive_02 1
+    100042: HazmatPlacardIcon_Flammable_02
+    100044: HazmatPlacardIcon_Flammable_02 1
+    100046: HazmatPlacardText_Explosive_01
+    100048: HazmatPlacardText_Explosive_01 1
+    100050: HazmatPlacardText_Explosive_01 2
+    100052: HazmatPlacardText_Explosive_01 3
+    100054: HazmatPlacardText_Flammable_02
+    100056: HazmatPlacardText_Flammable_02 1
+    100058: HazmatPlacardText_Flammable_02 2
+    100060: HazmatPlacardText_Flammable_02 3
+    100062: PlacardCollider (10)
+    100064: PlacardCollider (11)
+    100066: PlacardCollider (12)
+    100068: PlacardCollider (13)
+    100070: PlacardCollider (14)
+    100072: PlacardCollider (15)
+    100074: PlacardCollider (16)
+    100076: PlacardCollider (17)
+    100078: PlacardCollider (2)
+    100080: PlacardCollider (3)
+    100082: PlacardCollider (4)
+    100084: PlacardCollider (5)
+    100086: PlacardCollider (6)
+    100088: PlacardCollider (7)
+    100090: PlacardCollider (8)
+    100092: PlacardCollider (9)
+    400000: '[camera dampening]'
+    400002: '[car placard anchor1]'
+    400004: '[colliders]'
+    400006: '[collision]'
+    400008: '[items]'
+    400010: '[walkable]'
+    400012: //RootNode
+    400014: HazmatPlacard_Explosive03
+    400016: HazmatPlacard_Explosive03 1
+    400018: HazmatPlacard_Explosive03 2
+    400020: HazmatPlacard_Explosive03 3
+    400022: HazmatPlacard_Explosive04
+    400024: HazmatPlacard_Explosive04 1
+    400026: HazmatPlacard_Flammable03
+    400028: HazmatPlacard_Flammable03 1
+    400030: HazmatPlacard_Flammable03 2
+    400032: HazmatPlacard_Flammable03 3
+    400034: HazmatPlacard_Flammable04
+    400036: HazmatPlacard_Flammable04 1
+    400038: HazmatPlacardIcon_Explosive_02
+    400040: HazmatPlacardIcon_Explosive_02 1
+    400042: HazmatPlacardIcon_Flammable_02
+    400044: HazmatPlacardIcon_Flammable_02 1
+    400046: HazmatPlacardText_Explosive_01
+    400048: HazmatPlacardText_Explosive_01 1
+    400050: HazmatPlacardText_Explosive_01 2
+    400052: HazmatPlacardText_Explosive_01 3
+    400054: HazmatPlacardText_Flammable_02
+    400056: HazmatPlacardText_Flammable_02 1
+    400058: HazmatPlacardText_Flammable_02 2
+    400060: HazmatPlacardText_Flammable_02 3
+    400062: PlacardCollider (10)
+    400064: PlacardCollider (11)
+    400066: PlacardCollider (12)
+    400068: PlacardCollider (13)
+    400070: PlacardCollider (14)
+    400072: PlacardCollider (15)
+    400074: PlacardCollider (16)
+    400076: PlacardCollider (17)
+    400078: PlacardCollider (2)
+    400080: PlacardCollider (3)
+    400082: PlacardCollider (4)
+    400084: PlacardCollider (5)
+    400086: PlacardCollider (6)
+    400088: PlacardCollider (7)
+    400090: PlacardCollider (8)
+    400092: PlacardCollider (9)
+    2100000: HazmatPlacards
+    2300000: HazmatPlacard_Explosive03
+    2300002: HazmatPlacard_Explosive03 1
+    2300004: HazmatPlacard_Explosive03 2
+    2300006: HazmatPlacard_Explosive03 3
+    2300008: HazmatPlacard_Explosive04
+    2300010: HazmatPlacard_Explosive04 1
+    2300012: HazmatPlacard_Flammable03
+    2300014: HazmatPlacard_Flammable03 1
+    2300016: HazmatPlacard_Flammable03 2
+    2300018: HazmatPlacard_Flammable03 3
+    2300020: HazmatPlacard_Flammable04
+    2300022: HazmatPlacard_Flammable04 1
+    3300000: HazmatPlacard_Explosive03
+    3300002: HazmatPlacard_Explosive03 1
+    3300004: HazmatPlacard_Explosive03 2
+    3300006: HazmatPlacard_Explosive03 3
+    3300008: HazmatPlacard_Explosive04
+    3300010: HazmatPlacard_Explosive04 1
+    3300012: HazmatPlacard_Flammable03
+    3300014: HazmatPlacard_Flammable03 1
+    3300016: HazmatPlacard_Flammable03 2
+    3300018: HazmatPlacard_Flammable03 3
+    3300020: HazmatPlacard_Flammable04
+    3300022: HazmatPlacard_Flammable04 1
+    4300000: HazmatPlacard_Explosive03
+    4300002: HazmatPlacard_Flammable03
+    4300004: HazmatPlacard_Flammable03
+    4300006: HazmatPlacard_Explosive03
+    4300008: HazmatPlacard_Flammable03
+    4300010: HazmatPlacard_Explosive03
+    4300012: HazmatPlacard_Flammable03
+    4300014: HazmatPlacard_Explosive03
+    4300016: HazmatPlacard_Flammable04
+    4300018: HazmatPlacard_Explosive04
+    4300020: HazmatPlacard_Flammable04
+    4300022: HazmatPlacard_Explosive04
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

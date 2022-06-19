@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 234039312
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: banana_car_bundle
+      Dependencies: {}

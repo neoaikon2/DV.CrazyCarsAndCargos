@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DVCustomCarLoader/_CARS/Master.unity
+  isLoaded: 1
+  isActive: 1

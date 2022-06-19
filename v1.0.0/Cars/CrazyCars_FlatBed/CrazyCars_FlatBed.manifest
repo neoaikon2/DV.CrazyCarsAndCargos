@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1203848498
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: flat_bed_car_bundle
+      Dependencies: {}

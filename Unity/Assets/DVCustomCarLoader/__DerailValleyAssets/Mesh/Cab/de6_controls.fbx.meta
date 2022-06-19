@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 8d0d8eb05f8f8634d89ef3bb5b3ea296
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: C bell button
+    100002: C cab_light dash_rotary02
+    100004: C deploy_sand button
+    100006: C doors and windows
+    100008: C dynamic_brake_lever
+    100010: C emergency_engine_off button
+    100012: C engine controls
+    100014: C fan switch
+    100016: C fusebox controls
+    100018: C headlights dash_rotary01
+    100020: C horn
+    100022: C independent_brake_lever
+    100024: C reverser
+    100026: C throttle
+    100028: C train_brake_lever
+    100030: control_stand
+    100032: controls
+    100034: cs_gauges
+    100036: cs_labels
+    100038: //RootNode
+    100040: gauges
+    100042: I bell_lamp
+    100044: I brake_aux_lamp
+    100046: I brake_aux_meter
+    100048: I brake_res_lamp
+    100050: I brake_res_meter
+    100052: I button_sand_lamp
+    100054: I dash_lights_lamp
+    100056: I fan_lamp
+    100058: I fuel_lamp
+    100060: I fuel_meter
+    100062: I headlights_lamp
+    100064: I ind_brake_aux_lamp
+    100066: I ind_brake_aux_meter
+    100068: I ind_brake_res_lamp
+    100070: I ind_brake_res_meter
+    100072: I oil_lamp
+    100074: I oil_meter
+    100076: I rpm_meter
+    100078: I sand_lamp
+    100080: I sand_meter
+    100082: I service_engine_lamp
+    100084: I temperature_lamp
+    100086: I temperature_meter
+    100088: I voltage_meter
+    100090: I wheelslip_lamp
+    100092: lamps
+    100094: spedometer
+    100096: spedometer_gauge
+    400000: C bell button
+    400002: C cab_light dash_rotary02
+    400004: C deploy_sand button
+    400006: C doors and windows
+    400008: C dynamic_brake_lever
+    400010: C emergency_engine_off button
+    400012: C engine controls
+    400014: C fan switch
+    400016: C fusebox controls
+    400018: C headlights dash_rotary01
+    400020: C horn
+    400022: C independent_brake_lever
+    400024: C reverser
+    400026: C throttle
+    400028: C train_brake_lever
+    400030: control_stand
+    400032: controls
+    400034: cs_gauges
+    400036: cs_labels
+    400038: //RootNode
+    400040: gauges
+    400042: I bell_lamp
+    400044: I brake_aux_lamp
+    400046: I brake_aux_meter
+    400048: I brake_res_lamp
+    400050: I brake_res_meter
+    400052: I button_sand_lamp
+    400054: I dash_lights_lamp
+    400056: I fan_lamp
+    400058: I fuel_lamp
+    400060: I fuel_meter
+    400062: I headlights_lamp
+    400064: I ind_brake_aux_lamp
+    400066: I ind_brake_aux_meter
+    400068: I ind_brake_res_lamp
+    400070: I ind_brake_res_meter
+    400072: I oil_lamp
+    400074: I oil_meter
+    400076: I rpm_meter
+    400078: I sand_lamp
+    400080: I sand_meter
+    400082: I service_engine_lamp
+    400084: I temperature_lamp
+    400086: I temperature_meter
+    400088: I voltage_meter
+    400090: I wheelslip_lamp
+    400092: lamps
+    400094: spedometer
+    400096: spedometer_gauge
+    2100000: LocoDiesel_cab.001
+    2100002: _labels.004
+    2100004: LocoDiesel_gauges.001
+    2300000: control_stand
+    2300002: cs_gauges
+    2300004: cs_labels
+    2300006: spedometer
+    2300008: spedometer_gauge
+    3300000: control_stand
+    3300002: cs_gauges
+    3300004: cs_labels
+    3300006: spedometer
+    3300008: spedometer_gauge
+    4300000: control_stand
+    4300002: cs_labels
+    4300004: cs_gauges
+    4300006: spedometer
+    4300008: spedometer_gauge
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

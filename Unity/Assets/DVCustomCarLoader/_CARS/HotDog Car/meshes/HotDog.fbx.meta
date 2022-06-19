@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 0a5142ce227ff3347b13456defa842eb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HotDog
+    100004: HotDog.001
+    100006: HotDog.002
+    100008: HotDog.003
+    100010: HotDogBun
+    100012: HotDogBun LOD1
+    100014: HotDogBun LOD2
+    100016: HotDogBun LOD3
+    100018: Ketchup
+    100020: Ketchup.001
+    100022: Ketchup.002
+    100024: Ketchup.003
+    100026: Mustard
+    100028: Mustard.001
+    100030: Mustard.002
+    100032: Mustard.003
+    100034: HotDogBun_LOD0
+    100036: HotDogBun_LOD1
+    100038: HotDogBun_LOD2
+    400000: //RootNode
+    400002: HotDog
+    400004: HotDog.001
+    400006: HotDog.002
+    400008: HotDog.003
+    400010: HotDogBun
+    400012: HotDogBun LOD1
+    400014: HotDogBun LOD2
+    400016: HotDogBun LOD3
+    400018: Ketchup
+    400020: Ketchup.001
+    400022: Ketchup.002
+    400024: Ketchup.003
+    400026: Mustard
+    400028: Mustard.001
+    400030: Mustard.002
+    400032: Mustard.003
+    400034: HotDogBun_LOD0
+    400036: HotDogBun_LOD1
+    400038: HotDogBun_LOD2
+    2100000: hotdogbun
+    2100002: hotdog
+    2100004: mustard
+    2100006: ketchup
+    2300000: HotDog
+    2300002: HotDog.001
+    2300004: HotDog.002
+    2300006: HotDog.003
+    2300008: HotDogBun
+    2300010: HotDogBun LOD1
+    2300012: HotDogBun LOD2
+    2300014: HotDogBun LOD3
+    2300016: Ketchup
+    2300018: Ketchup.001
+    2300020: Ketchup.002
+    2300022: Ketchup.003
+    2300024: Mustard
+    2300026: Mustard.001
+    2300028: Mustard.002
+    2300030: Mustard.003
+    2300032: HotDogBun_LOD0
+    2300034: HotDogBun_LOD1
+    2300036: HotDogBun_LOD2
+    3300000: HotDog
+    3300002: HotDog.001
+    3300004: HotDog.002
+    3300006: HotDog.003
+    3300008: HotDogBun
+    3300010: HotDogBun LOD1
+    3300012: HotDogBun LOD2
+    3300014: HotDogBun LOD3
+    3300016: Ketchup
+    3300018: Ketchup.001
+    3300020: Ketchup.002
+    3300022: Ketchup.003
+    3300024: Mustard
+    3300026: Mustard.001
+    3300028: Mustard.002
+    3300030: Mustard.003
+    3300032: HotDogBun_LOD0
+    3300034: HotDogBun_LOD1
+    3300036: HotDogBun_LOD2
+    4300000: HotDogBun
+    4300002: HotDog
+    4300004: Mustard
+    4300006: Ketchup
+    4300008: HotDogBun LOD1
+    4300010: HotDog.001
+    4300012: Mustard.001
+    4300014: Ketchup.001
+    4300016: HotDogBun LOD2
+    4300018: HotDog.002
+    4300020: Mustard.002
+    4300022: Ketchup.002
+    4300024: HotDogBun LOD3
+    4300026: HotDog.003
+    4300028: Mustard.003
+    4300030: Ketchup.003
+    4300032: HotDogBun_LOD0
+    4300034: HotDogBun_LOD1
+    4300036: HotDogBun_LOD2
+    20500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

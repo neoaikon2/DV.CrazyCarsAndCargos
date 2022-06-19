@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2724642814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30baf1cd8a39e2ef03caaea4499a7c20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 56b29f33802d21a6fa2377608602fcc7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 685076682, guid: 14635cc44ce6611428b59555795755a6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/DVCustomCarLoader/_CARS/temp/exported_Flat_Bed_Car_[Military].prefab
+Dependencies: []

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1245506614, guid: 14635cc44ce6611428b59555795755a6, type: 3}
+  m_Name: Kooky Cargo
+  m_EditorClassIdentifier: 
+  Cargos:
+  - Identifier: GiantBanana1
+    ShortName: Giant Banana
+    SpecificName: a load of giant bananas
+    MassPerUnit: 0
+    ValuePerUnit: 24000
+    EnvironmentDamagePrice: 0
+    RequiredLicense: 512
+    Sources: 4
+    Destinations: 16
+  - Identifier: GiantHotDogs1
+    ShortName: Giant Hot Dogs
+    SpecificName: a load of gigantic hot dogs
+    MassPerUnit: 0
+    ValuePerUnit: 24000
+    EnvironmentDamagePrice: 0
+    RequiredLicense: 512
+    Sources: 4
+    Destinations: 16
+  - Identifier: GiantChiliPeppers1
+    ShortName: Giant Chili Peppers
+    SpecificName: a load of gigantic chili peppers
+    MassPerUnit: 0
+    ValuePerUnit: 24000
+    EnvironmentDamagePrice: 0
+    RequiredLicense: 512
+    Sources: 4
+    Destinations: 16
+  - Identifier: GiantBanana2
+    ShortName: Giant Banana
+    SpecificName: a load of gigantic bananas
+    MassPerUnit: 0
+    ValuePerUnit: 24000
+    EnvironmentDamagePrice: 0
+    RequiredLicense: 512
+    Sources: 4
+    Destinations: 64
+  - Identifier: GiantHotDogs2
+    ShortName: Giant Hot Dogs
+    SpecificName: a load of gigantic hot dogs
+    MassPerUnit: 0
+    ValuePerUnit: 24000
+    EnvironmentDamagePrice: 0
+    RequiredLicense: 512
+    Sources: 4
+    Destinations: 64
+  - Identifier: GiantChiliPeppers2
+    ShortName: Giant Chili Peppers
+    SpecificName: a load of gigantic chili peppers
+    MassPerUnit: 0
+    ValuePerUnit: 24000
+    EnvironmentDamagePrice: 0
+    RequiredLicense: 512
+    Sources: 4
+    Destinations: 64
+  - Identifier: GiantTacos1
+    ShortName: Giant Tacos
+    SpecificName: a load of gigantic tacos
+    MassPerUnit: 0
+    ValuePerUnit: 24000
+    EnvironmentDamagePrice: 0
+    RequiredLicense: 512
+    Sources: 4
+    Destinations: 16
+  - Identifier: GiantTacos2
+    ShortName: Giant Tacos
+    SpecificName: a load of gigantic tacos
+    MassPerUnit: 0
+    ValuePerUnit: 24000
+    EnvironmentDamagePrice: 0
+    RequiredLicense: 512
+    Sources: 4
+    Destinations: 64
+  - Identifier: TVDinners1
+    ShortName: TV Dinners
+    SpecificName: a freezer full of tv dinners
+    MassPerUnit: 1000
+    ValuePerUnit: 24000
+    EnvironmentDamagePrice: 0
+    RequiredLicense: 512
+    Sources: 4
+    Destinations: 16
+  - Identifier: TVDinners2
+    ShortName: TVDinners
+    SpecificName: a freezer full of tv dinners
+    MassPerUnit: 1000
+    ValuePerUnit: 24000
+    EnvironmentDamagePrice: 0
+    RequiredLicense: 512
+    Sources: 4
+    Destinations: 64
+  editorFoldout: 1

@@ -1,0 +1,112 @@
+[
+	{
+		"identifier":"GiantBanana1",
+		"shortName":"Giant Banana",
+		"longName":"a load of giant bananas",
+		"massPerUnit":0,
+		"valuePerUnit":24000,
+		"environmentPerUnit":0,
+		"requiredLicense":512,
+		"sources":4,
+		"destinations":16
+	},
+	{
+		"identifier":"GiantHotDogs1",
+		"shortName":"Giant Hot Dogs",
+		"longName":"a load of gigantic hot dogs",
+		"massPerUnit":0,
+		"valuePerUnit":24000,
+		"environmentPerUnit":0,
+		"requiredLicense":512,
+		"sources":4,
+		"destinations":16
+	},
+	{
+		"identifier":"GiantChiliPeppers1",
+		"shortName":"Giant Chili Peppers",
+		"longName":"a load of gigantic chili peppers",
+		"massPerUnit":0,
+		"valuePerUnit":24000,
+		"environmentPerUnit":0,
+		"requiredLicense":512,
+		"sources":4,
+		"destinations":16
+	},
+	{
+		"identifier":"GiantBanana2",
+		"shortName":"Giant Banana",
+		"longName":"a load of gigantic bananas",
+		"massPerUnit":0,
+		"valuePerUnit":24000,
+		"environmentPerUnit":0,
+		"requiredLicense":512,
+		"sources":4,
+		"destinations":64
+	},
+	{
+		"identifier":"GiantHotDogs2",
+		"shortName":"Giant Hot Dogs",
+		"longName":"a load of gigantic hot dogs",
+		"massPerUnit":0,
+		"valuePerUnit":24000,
+		"environmentPerUnit":0,
+		"requiredLicense":512,
+		"sources":4,
+		"destinations":64
+	},
+	{
+		"identifier":"GiantChiliPeppers2",
+		"shortName":"Giant Chili Peppers",
+		"longName":"a load of gigantic chili peppers",
+		"massPerUnit":0,
+		"valuePerUnit":24000,
+		"environmentPerUnit":0,
+		"requiredLicense":512,
+		"sources":4,
+		"destinations":64
+	},
+	{
+		"identifier":"GiantTacos1",
+		"shortName":"Giant Tacos",
+		"longName":"a load of gigantic tacos",
+		"massPerUnit":0,
+		"valuePerUnit":24000,
+		"environmentPerUnit":0,
+		"requiredLicense":512,
+		"sources":4,
+		"destinations":16
+	},
+	{
+		"identifier":"GiantTacos2",
+		"shortName":"Giant Tacos",
+		"longName":"a load of gigantic tacos",
+		"massPerUnit":0,
+		"valuePerUnit":24000,
+		"environmentPerUnit":0,
+		"requiredLicense":512,
+		"sources":4,
+		"destinations":64
+	},
+	{
+		"identifier":"TVDinners1",
+		"shortName":"TV Dinners",
+		"longName":"a freezer full of tv dinners",
+		"massPerUnit":1000,
+		"valuePerUnit":24000,
+		"environmentPerUnit":0,
+		"requiredLicense":512,
+		"sources":4,
+		"destinations":16
+	},
+	{
+		"identifier":"TVDinners2",
+		"shortName":"TVDinners",
+		"longName":"a freezer full of tv dinners",
+		"massPerUnit":1000,
+		"valuePerUnit":24000,
+		"environmentPerUnit":0,
+		"requiredLicense":512,
+		"sources":4,
+		"destinations":64
+	}
+]

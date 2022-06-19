@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2632082146
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cardboardboxcar_bundle
+      Dependencies: {}

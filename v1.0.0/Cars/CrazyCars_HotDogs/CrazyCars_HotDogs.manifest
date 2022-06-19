@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4199663958
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hot_dog_car_bundle
+      Dependencies: {}
